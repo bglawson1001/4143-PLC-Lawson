@@ -8,12 +8,7 @@
  *  Description:
  * Basic Golang program that checks to see what mascot is returned in a mascot.go file.
  * Main.go prints out the name of the mascot along with a quote if the if statement in the
-*  mascot_test.go statement is not false.
- *
- *
- *
- *
- *
+ *  mascot_test.go statement is not false.
  *
  *
  *  Usage:
