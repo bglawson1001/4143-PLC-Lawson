@@ -9,7 +9,7 @@ in Golang.
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | [main.go](main.cpp) | Main driver of this Golang program. It imports some very important packages not included by default, and returns the name of the mascot in the mascot.go file. |
+|   1   | [main.go](https://github.com/bglawson1001/4143-PLC-Lawson/blob/main/Assignments/P01/main.go) | Main driver of this Golang program. It imports some very important packages not included by default, and returns the name of the mascot in the mascot.go file. |
 
 
 ### Instructions
