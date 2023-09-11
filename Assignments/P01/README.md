@@ -19,5 +19,5 @@ This video provides all of the instructions. (https://www.youtube.com/watch?v=1M
 
 ### Example Command
 
-An example command for the terminal would go run main.go.
+An example command for the terminal would be go run main.go, this command runs the program.
 https://github.com/bglawson1001/4143-PLC-Lawson/tree/main/Assignments/P01/mascot
