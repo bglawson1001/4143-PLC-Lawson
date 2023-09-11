@@ -10,6 +10,7 @@ in Golang.
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
 |   1   | [main.go](https://github.com/bglawson1001/4143-PLC-Lawson/blob/main/Assignments/P01/main.go) | Main driver of this Golang program. It imports some very important packages not included by default, and returns the name of the mascot in the mascot.go file. |
+|   2   | [mascot](https://github.com/bglawson1001/4143-PLC-Lawson/tree/main/Assignments/P01/mascot) | Folder that contains the mascot.go file and the mascot test file.
 
 
 ### Instructions
@@ -19,3 +20,4 @@ This video provides all of the instructions. (https://www.youtube.com/watch?v=1M
 ### Example Command
 
 An example command for the terminal would go run main.go.
+https://github.com/bglawson1001/4143-PLC-Lawson/tree/main/Assignments/P01/mascot
