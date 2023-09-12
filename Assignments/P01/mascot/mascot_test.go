@@ -1,7 +1,7 @@
 package mascot_test
 
 import (
-	"testing"
+	"testing" //allows the programmer to write test functions. 
 
 	"example.com/p01/mascot"
 )
