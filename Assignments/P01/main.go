@@ -21,13 +21,15 @@
 package main
 
 import (
-	"fmt"
+	"fmt" // this package formats basic strings, values, inputs, and outputs. 
+	      // It can also be used to print and write from the terminal.
 
-	"example.com/p01/mascot"
-	"rsc.io/quote"
+	"example.com/p01/mascot" 
+	"rsc.io/quote" // package from the internet that allows us to print a quote
+	               // to the screen. 
 )
 
 func main() {
-	fmt.Println(mascot.BestMascot())
-	fmt.Println(quote.Go())
+	fmt.Println(mascot.BestMascot()) // prints the name of the mascot to the screen.
+	fmt.Println(quote.Go()) // prints a quote to the screen.
 }
