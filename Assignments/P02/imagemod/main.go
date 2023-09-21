@@ -7,7 +7,8 @@ import (
 
 func main() {
 
-	// Create an ImageManipulator instance
+	// Create an ImageManipulator instance. 
+	// This is the orginal line of code that was used before the new constructor was made.
 	//im := imageManipulator.NewImageManipulator(800, 600)
 	// Create an ImageManipulator instance with an existing image
 	im, err := imageManipulator.NewImageManipulatorWithImage("mustangs.jpg")
