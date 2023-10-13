@@ -10,7 +10,7 @@ with the various functions in these packages.
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | [img_module](https://github.com/bglawson1001/img_module/blob/main/grayscale.go) | This repository contains the various packages that are all in one module. Thisincludes the get, colors, text, and grayscale functions. |
+|   1   | [img_module](https://github.com/bglawson1001/img_module) | This repository contains the various packages that are all in one module. Thisincludes the get, colors, text, and grayscale functions. |
 |   2   | [mascot](https://github.com/bglawson1001/Color_Test) | This repository contains the main.go file and the results of this program.
 
 
