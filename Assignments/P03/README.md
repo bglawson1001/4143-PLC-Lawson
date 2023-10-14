@@ -2,7 +2,7 @@
 ### Brayden Lawson
 ### Description:
 
-This program will create four packages inside of one module. It will also have a sperate module called Color_Test that 
+This program will create four packages inside of one module. It will also have a separate module called Color_Test that 
 will show the various images the program creates. It will have an image with text and a gray image. This is accomplished
 with the various functions in these packages.
 
