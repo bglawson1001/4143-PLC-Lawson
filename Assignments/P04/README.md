@@ -8,7 +8,7 @@ After this is done the progam will write the time it took for each to finish.
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | [img_module](https://github.com/bglawson1001/img_module) | This repository contains the various packages/files that are all in one module. This includes the get, colors, text, and grayscale functions. |
+|   1   | [main.go](https://github.com/bglawson1001/4143-PLC-Lawson/blob/main/Assignments/P04/main.go) | Main driver of this program, run this in order to download the images and get the times. |
 |   2   | [Color_Test](https://github.com/bglawson1001/Color_Test) | This repository contains the main.go file and the results of this program.
 
 
