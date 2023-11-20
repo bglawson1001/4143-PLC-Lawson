@@ -12,12 +12,16 @@ After this is done the progam will write the time it took for each to finish.
 |   2   | [go.mod](https://github.com/bglawson1001/4143-PLC-Lawson/blob/main/Assignments/P04/go.mod) | This file is necessary because it declares the program's dependencies and their version number.
 |   3   | [concurrent_images](https://github.com/bglawson1001/4143-PLC-Lawson/blob/main/Assignments/P04/go.mod) | Folder that is created when the program is ran that includes the images the download concurrent function downloaded.
 |   4   | [sequential_images](https://github.com/bglawson1001/4143-PLC-Lawson/blob/main/Assignments/P04/go.mod) | Folder that is created when the program is ran that includes the images the download sequential function downloaded.
+|   5   | [My_images](https://docs.google.com/spreadsheets/d/14QSmG84jRhEgzXb96Ie9tw9zS7cY4PGXX9NGys-kc-o/edit#gid=0) | Google sheet that contains the images I used. They will all be found next to my name (Brayden Lawson).
+
 
 
 
 ### Instructions
 
 https://github.com/rugbyprof/4143-PLC/tree/main/Assignments/P04
+
+
 
 ### Example Command
 
