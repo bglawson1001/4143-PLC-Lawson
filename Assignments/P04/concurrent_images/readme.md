@@ -1,1 +1,1 @@
-This is all images that the concurrent function downloaded.
+This is all of the images the concurrent function downloaded.
