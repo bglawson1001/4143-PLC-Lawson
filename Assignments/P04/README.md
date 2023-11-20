@@ -12,7 +12,7 @@ After this is done the progam will write the time it took for each to finish.
 |   2   | [go.mod](https://github.com/bglawson1001/4143-PLC-Lawson/blob/main/Assignments/P04/go.mod) | This file is necessary because it declares the program's dependencies and their version number.
 |   3   | [concurrent_images](https://github.com/bglawson1001/4143-PLC-Lawson/tree/main/Assignments/P04/concurrent_images) | Folder that is created when the program is ran that includes the images the download concurrent function downloaded.
 |   4   | [sequential_images](https://github.com/bglawson1001/4143-PLC-Lawson/blob/main/Assignments/P04/go.mod) | Folder that is created when the program is ran that includes the images the download sequential function downloaded.
-|   5   | [My_images](https://docs.google.com/spreadsheets/d/14QSmG84jRhEgzXb96Ie9tw9zS7cY4PGXX9NGys-kc-o/edit#gid=0) | Google sheet that contains the images I used. They will all be found next to my name, the rest of the images are images Dr.Griffin chose in the starter code he gave our class. (Brayden Lawson).
+|   5   | [My_images](https://docs.google.com/spreadsheets/d/14QSmG84jRhEgzXb96Ie9tw9zS7cY4PGXX9NGys-kc-o/edit#gid=0) | Google sheet that contains the images I used. They will all be found next to my name (Brayden Lawson). The rest of the images are images Dr.Griffin chose in the starter code he gave our class.
 
 
 
