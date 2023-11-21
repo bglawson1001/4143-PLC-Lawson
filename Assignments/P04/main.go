@@ -1,23 +1,3 @@
-/************************************************************************
- *
- *  Author:           Brayden Lawson
- *  Title:            Concurrent Image Downloader
- *  Course:           4143-101
- *  Semester:         Fall 2023
- *
- *  Description:
- * Golang program that uses two functions to download multiple images. One downloads them
- * concurrently, and the other downloads them sequentially. The program will print out how
- * long each function took.
- *
- *
- *  Usage:
- *        Download images
- *
- *
- *  Files: main.go, sequential_images, concurrent_images, go.mod
- ************************************************************************/
-
 package main
 
 import (
@@ -37,7 +17,7 @@ func main() {
   createFolder(sequentialFolder)
   createFolder(concurrentFolder)
 
-  //Image urls for this assignment.
+  // Image urls for this assignment.
   urls := []string{
     "https://unsplash.com/photos/hvdnff_bieQ/download?ixid=M3wxMjA3fDB8MXx0b3BpY3x8NnNNVmpUTFNrZVF8fHx8fDJ8fDE2OTg5MDc1MDh8&w=640",
     "https://unsplash.com/photos/HQaZKCDaax0/download?ixid=M3wxMjA3fDB8MXx0b3BpY3x8NnNNVmpUTFNrZVF8fHx8fDJ8fDE2OTg5MDc1MDh8&w=640",
