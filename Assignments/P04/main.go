@@ -12,7 +12,7 @@
  *
  *
  *  Usage:
- *        Used to obtain an image, make it gray, and write text, 
+ *        Download images
  *
  *
  *  Files: main.go, sequential_images, concurrent_images, go.mod
