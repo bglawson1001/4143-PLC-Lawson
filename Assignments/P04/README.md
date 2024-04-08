@@ -2,7 +2,7 @@
 ### Brayden Lawson
 ### Description:
 
-This program will create have two functions, one which will download images sequentially, and one that will download images concurrently. 
+This program will have two functions, one which will download images sequentially, and one that will download images concurrently. 
 After this is done the progam will write the time it took for each to finish. 
 ### Files
 
