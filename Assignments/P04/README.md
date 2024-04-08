@@ -3,7 +3,7 @@
 ### Description:
 
 This program will have two functions, one which will download images sequentially, and one that will download images concurrently. 
-After this is done the progam will write the time it took for each to finish. 
+After this is done the progam will show the time it took for each to finish. 
 ### Files
 
 |   #   | File     | Description                      |
